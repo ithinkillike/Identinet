@@ -1,4 +1,4 @@
 # Identinet
 Identinet is the ambitious and first competitor to the modern internet. Valuing control in the hands of users rather than large ISPs
 
-v0.1.0-b4git add
+v0.1.0-b5
